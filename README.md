@@ -1,4 +1,4 @@
 # apnacollege-repo
 This is my first git repository.
 <br>
-author - Moeed
+author - Moeed(student)
